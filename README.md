@@ -3,7 +3,7 @@
 
 Изучаю профессию:
 ![Frontend-разработчик](https://img.shields.io/badge/-Frontend%20developer-090909??style=plastic&logo=JavaScript&logoColor=E9D54D)
-## <img src="https://img.shields.io/badge/-Frontend%20developer-090909??style=plastic&logo=JavaScript&logoColor=E9D54D" width="40" alt="The Developer"> Frontend-разработчик
+## <img src="https://img.shields.io/badge/-Frontend%20developer-090909??style=plastic&logo=JavaScript&logoColor=E9D54D" width="300" alt="The Developer"> Frontend-разработчик
 
 <!--
 **AlexRemar/AlexRemar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
