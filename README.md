@@ -11,7 +11,12 @@
 #### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-git-48.png" width="20" alt="The GIT"> Git, GitHub
 
 #### *Наглядно:*
-- :fire: Мой [проект](https://raw.githack.com/AlexRemar/My-project-HeaderShaurma/main/index.html) шапки сайта для ресторана. HTML, Js и немного CSS-анимации для плавной визуализации позиций меню при наведении.
+- :fire: Мой [проект](https://raw.githack.com/AlexRemar/My-project-HeaderShaurma/main/index.html) шапки сайта для ресторана. HTML, JS и немного CSS-анимации для плавной визуализации позиций меню при наведении.
+- :scroll: Учебный [проект](https://raw.githack.com/AlexRemar/Diploma-Adaptive-Layout/main/index.html) по вёрстке макета сайта. Адаптивная вёрстка на десктоп, планшет и смартфон + реализация pop-up.
+- :scroll: Учебный [проект](https://raw.githack.com/AlexRemar/Diploma-Basics-of-Programming/main/index.html) по основам программирования. Реализация логики игры "крестики-нолики" (JS).
+- :scroll: Учебный [проект](https://github.com/AlexRemar/Diploma-Basics-JS/tree/master) по основа JS. Работа с API и DOM.
+
+
 
 <!--
 **AlexRemar/AlexRemar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
