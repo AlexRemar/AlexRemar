@@ -1,7 +1,8 @@
 <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/riki3.png" alt="The Unlimited">
 
 
-### Hi there 👋
+# Изучаю профессию:
+## <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-developer-64.png" alt="The Developer"> Frontend-разработчик
 
 <!--
 **AlexRemar/AlexRemar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
