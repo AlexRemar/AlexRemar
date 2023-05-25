@@ -1,6 +1,6 @@
 <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/riki3.png" alt="The Unlimited">
 
-#### *Изучаю профессию:*
+#### <sup>*Изучаю профессию:*</sup>
 ## <img src="https://img.shields.io/badge/-Frontend%20developer-090909??style=plastic&logo=JavaScript&logoColor=E9D54D" width="300" alt="The Developer">
 #### *Уже кое-что смыслю в:*
 ### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-html-50.png" width="30" alt="The HTML"> HTML 5 (Adaptive Layout, PixelPerfect)
