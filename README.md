@@ -1,8 +1,8 @@
 <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/riki3.png" alt="The Unlimited">
 
 
-# Изучаю профессию:
-## <img src="https://img.shields.io/badge/-Frontend%20developer-090909??style=plastic&logo=JavaScript&logoColor=E9D54D" width="300" alt="The Developer">
+ Изучаю профессию:
+# <img src="https://img.shields.io/badge/-Frontend%20developer-090909??style=plastic&logo=JavaScript&logoColor=E9D54D" width="300" alt="The Developer">
 
 <!--
 **AlexRemar/AlexRemar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
