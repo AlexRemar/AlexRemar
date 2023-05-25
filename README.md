@@ -10,6 +10,9 @@
 #### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-photoshop-48.png" width="20" alt="The PS"> Adobe Photoshop
 #### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-git-48.png" width="20" alt="The GIT"> Git, GitHub
 
+#### *Наглядно:*
+- :fire: Мой [проект](https://raw.githack.com/AlexRemar/My-project-HeaderShaurma/main/index.html) шапки сайта для ресторана. HTML, Js и немного CSS-анимации для плавной визуализации позиций меню при наведении.
+
 <!--
 **AlexRemar/AlexRemar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
