@@ -1,4 +1,4 @@
-<img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/riki.png" alt="The Unlimited" width="1400" height='600'/>
+<img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/riki.png" alt="The Unlimited" width="2400" height='600'/>
 
 
 ### Hi there 👋
