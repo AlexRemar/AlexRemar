@@ -1,10 +1,10 @@
 <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/riki3.png" alt="The Unlimited">
 
-#### Изучаю профессию:
+#### *Изучаю профессию:*
 ## <img src="https://img.shields.io/badge/-Frontend%20developer-090909??style=plastic&logo=JavaScript&logoColor=E9D54D" width="300" alt="The Developer">
-#### Уже кое-что смыслю в:
+#### *Уже кое-что смыслю в:*
 ### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-html-50.png" width="30" alt="The HTML"> HTML 5 (Adaptive Layout, PixelPerfect)
-### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-css-50.png" width="30" alt="The CSS"> CSS 3(Flex-box, Animation)
+### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-css-50.png" width="30" alt="The CSS"> CSS 3 (Flex-box, Animation)
 ### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-javascript-48.png" width="30" alt="The JS"> JavaScript (AJAX,es6+,DOM,API)
 ### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-nodejs-48.png" width="30" alt="The Node"> Node.js, WebPack
 ### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-photoshop-48.png" width="30" alt="The PS"> Adobe Photoshop
