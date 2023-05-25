@@ -2,7 +2,7 @@
 
 
 Изучаю профессию:
-## <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-developer-64.png" width="48" alt="The Developer"> Frontend-разработчик
+## <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-developer-64.png" width="40" alt="The Developer"> Frontend-разработчик
 
 <!--
 **AlexRemar/AlexRemar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
