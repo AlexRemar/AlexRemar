@@ -2,7 +2,7 @@
 
 
 Изучаю профессию:
-![Frontend-разработчик](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Frontend-разработчик](https://img.shields.io/badge/-Frontend%20developer-090909??style=plastic&logo=JavaScript&logoColor=E9D54D)
 ## <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-developer-64.png" width="40" alt="The Developer"> Frontend-разработчик
 
 <!--
