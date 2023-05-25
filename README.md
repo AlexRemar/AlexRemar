@@ -5,8 +5,8 @@
 #### *Уже кое-что смыслю в:*
 ### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-html-50.png" width="30" alt="The HTML"> HTML 5 (Adaptive Layout, PixelPerfect)
 ### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-css-50.png" width="30" alt="The CSS"> CSS 3 (Flex-box, Animation)
-### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-javascript-48.png" width="30" alt="The JS"> JavaScript (AJAX,es6+,DOM,API)
-### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-nodejs-48.png" width="30" alt="The Node"> Node.js, WebPack
+### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-javascript-50.png" width="30" alt="The JS"> JavaScript (AJAX,es6+,DOM,API)
+### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-nodejs-25.png" width="30" alt="The Node"> Node.js, WebPack
 ### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-photoshop-48.png" width="30" alt="The PS"> Adobe Photoshop
 ### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-git-48.png" width="30" alt="The GIT"> Git, GitHub
 
