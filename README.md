@@ -2,7 +2,7 @@
 
 #### *Изучаю профессию:*
 ## <img src="https://img.shields.io/badge/-Frontend%20developer-090909??style=plastic&logo=JavaScript&logoColor=E9D54D" width="300" alt="The Developer">
-#### *Уже кое-что смыслю в:*
+#### *Скилы:*
 #### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-html-50.png" width="20" alt="The HTML"> HTML 5 (Adaptive Layout, PixelPerfect)
 #### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-css-50.png" width="20" alt="The CSS"> CSS 3 (Flex-box, Animation)
 #### <img src="https://github.com/AlexRemar/My-project-HeaderShaurma/blob/main/Images/icons8-javascript-50.png" width="20" alt="The JS"> JavaScript (AJAX,es6+,DOM,API)
